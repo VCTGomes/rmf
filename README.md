@@ -15,6 +15,7 @@ Cada correção é uma entrada num arquivo JSON, organizada por estado (UF). Voc
 - **Posição (latitude/longitude)**: reposicionar a antena para o local real. É por antena, organizada por estado, em `posicao/<UF>.json`.
 - **MIMO**: informar a configuração de antenas de um equipamento (ex: `64x64`, `4x4`). É por equipamento, não por antena, então é global (vale no Brasil inteiro). Em `mimo/homologacao.json` (pela homologação) ou `mimo/nome.json` (pelo nome/modelo).
 - **Nome do equipamento**: dar um nome comercial legível a um modelo cru. Em `modelo/alias.json`, pela homologação.
+- **Ocultar ERB do mapa**: marcar uma antena que a Anatel registra mas que não existe no local (fantasma, duplicata, torre já removida ou realocada). Ela some do mapa, mas continua no restante dos dados. É por antena, organizada por estado, em `ocultar/<UF>.json`.
 
 Diferença importante: posição é por antena (chave `erb_id`, separada por UF). MIMO e nome de equipamento são por equipamento (chave = homologação ou nome do modelo), e o mesmo equipamento aparece em todo o país, por isso são catálogos globais, sem divisão por estado.
 
@@ -54,6 +55,22 @@ Campos:
 | `obs`   | opcional    | Qualquer observação que ajude na revisão. |
 
 Só `lat` e `lon` afetam o mapa. Os outros campos existem para a revisão do PR e para dar rastro de quem corrigiu o quê.
+
+## Formato de uma ocultação
+
+Em `ocultar/<UF>.json`, adicione o `erb_id` da antena como chave:
+
+```json
+{
+  "1010230589": {
+    "motivo": "antena não existe mais no local",
+    "fonte": "morador / visita de campo",
+    "autor": "@seu-usuario"
+  }
+}
+```
+
+Só a presença do `erb_id` importa (a antena é ocultada do mapa). `motivo`, `fonte` e `autor` existem para a revisão do PR. Use isto apenas quando a antena de fato não existe no local (fantasma, duplicata, torre removida ou realocada), não para reposicionar: para mover uma antena para o lugar certo, use `posicao/<UF>.json`.
 
 ## Como contribuir
 
