@@ -1,0 +1,302 @@
+{
+  "008821301699": {
+    "nome": "✨ DEP450 VHF",
+    "cod": "LAH01JDC9JA2AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 608731
+  },
+  "008831301699": {
+    "nome": "✨ DEP450 UHF",
+    "cod": "LAH01QDC9JA2AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 207778
+  },
+  "022441101699": {
+    "nome": "",
+    "cod": "LAM28JQC9MA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 161308
+  },
+  "022361101699": {
+    "nome": "✨ DGP5550 VHF",
+    "cod": "LAH56JDN9MA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 155007
+  },
+  "001261100506": {
+    "nome": "",
+    "cod": "LAH55PDC9JA1AN",
+    "fab": "Motorola Solutions Malaysia Sdn Bhd.",
+    "usos": 124179
+  },
+  "012020700506": {
+    "nome": "",
+    "cod": "LAM27JQC9JA1AN",
+    "fab": "Motorola Solutions Malaysia Sdn Bhd.",
+    "usos": 117170
+  },
+  "006941101699": {
+    "nome": "✨ DGM6100",
+    "cod": "LAM27PNC9JA2AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 107303
+  },
+  "018271501749": {
+    "nome": "✨ TP9100 VHF",
+    "cod": "TPAB11-B100",
+    "fab": "Tait Limited",
+    "usos": 92487
+  },
+  "002851301699": {
+    "nome": "✨ APX2500 VHF",
+    "cod": "M24KSS9PW1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 87103
+  },
+  "033361501749": {
+    "nome": "✨ TM9155 VHF",
+    "cod": "TMAB34-B100B",
+    "fab": "Tait Limited",
+    "usos": 82513
+  },
+  "027901101699": {
+    "nome": "",
+    "cod": "H52KDF9PW6AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 81416
+  },
+  "011980700506": {
+    "nome": "",
+    "cod": "LAH55JDC9JA1AN",
+    "fab": "Motorola Solutions Malaysia Sdn Bhd.",
+    "usos": 71379
+  },
+  "014211308695": {
+    "nome": "",
+    "cod": "EVX-531-G6-5",
+    "fab": "Vertex Standard Co., Ltd.",
+    "usos": 36105
+  },
+  "049091501699": {
+    "nome": "✨ DGP5050e VHF",
+    "cod": "LAH56JDC9RA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 35023
+  },
+  "016051402096": {
+    "nome": "",
+    "cod": "NX-320-K9",
+    "fab": "JVCKenwood Corporation",
+    "usos": 34925
+  },
+  "049101501699": {
+    "nome": "✨ DGP5050e UHF",
+    "cod": "LAH56NDC9RA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 33575
+  },
+  "011970700506": {
+    "nome": "",
+    "cod": "LAH55QDC9JA1AN",
+    "fab": "Motorola Solutions Malaysia Sdn Bhd.",
+    "usos": 29178
+  },
+  "022421101699": {
+    "nome": "✨ DGP5550 UHF",
+    "cod": "LAH56RDN9MA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 23024
+  },
+  "002051403257": {
+    "nome": "",
+    "cod": "RRU3938-WD5M18393800",
+    "fab": "Huawei Technologies Co. Ltd",
+    "usos": 20356
+  },
+  "016540601749": {
+    "nome": "✨ TM9155 VHF",
+    "cod": "TMAB34-B100B",
+    "fab": "Tait Limited",
+    "usos": 17795
+  },
+  "006570200506": {
+    "nome": "",
+    "cod": "LAM25KKC9AA1AN",
+    "fab": "Motorola Solutions Malaysia Sdn Bhd.",
+    "usos": 16610
+  },
+  "030681201699": {
+    "nome": "",
+    "cod": "LAH56JCN9PA3AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 16303
+  },
+  "014901301699": {
+    "nome": "",
+    "cod": "LAH56NDC9MA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 14775
+  },
+  "016870601749": {
+    "nome": "✨ TP9100 VHF",
+    "cod": "TPAB11-B100A",
+    "fab": "Tait Limited",
+    "usos": 13581
+  },
+  "011060703257": {
+    "nome": "",
+    "cod": "RRU3801C-QWEM1RRUC",
+    "fab": "Huawei Technologies Co. Ltd",
+    "usos": 12047
+  },
+  "013051002112": {
+    "nome": "",
+    "cod": "VX-2100-D0-50",
+    "fab": "Vertex Standard LMR, Inc.,",
+    "usos": 10455
+  },
+  "062251903131": {
+    "nome": "",
+    "cod": "IC-F2100D",
+    "fab": "Icom Inc.",
+    "usos": 9808
+  },
+  "022351101699": {
+    "nome": "",
+    "cod": "LAM28JNC9MA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 9751
+  },
+  "012040700506": {
+    "nome": "",
+    "cod": "LAM27JQR9JA7AN",
+    "fab": "Motorola Solutions Malaysia Sdn Bhd.",
+    "usos": 9543
+  },
+  "009700701749": {
+    "nome": "✨ TM9155 VHF",
+    "cod": "TMAB34-B100B",
+    "fab": "Tait Limited",
+    "usos": 9011
+  },
+  "027921101699": {
+    "nome": "",
+    "cod": "LAH02RDH9JA2AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 8795
+  },
+  "022451003257": {
+    "nome": "",
+    "cod": "RRU3806-WD5MARU281",
+    "fab": "Huawei Technologies Co. Ltd",
+    "usos": 8389
+  },
+  "019281101699": {
+    "nome": "",
+    "cod": "H01PCF6TZ5BN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 7670
+  },
+  "011990700506": {
+    "nome": "",
+    "cod": "LAM27QNC9JA1AN",
+    "fab": "Motorola Solutions Malaysia Sdn Bhd.",
+    "usos": 6012
+  },
+  "003191200657": {
+    "nome": "",
+    "cod": "IC-F5061D",
+    "fab": "Icom Incorporated",
+    "usos": 5547
+  },
+  "061801700657": {
+    "nome": "",
+    "cod": "IC-F3400DT",
+    "fab": "Icom Incorporated",
+    "usos": 5483
+  },
+  "019461301699": {
+    "nome": "",
+    "cod": "LAH02NDH9JA2AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 5372
+  },
+  "021561203257": {
+    "nome": "",
+    "cod": "RRU3201-WD5MIRU187E",
+    "fab": "Huawei Technologies Co. Ltd",
+    "usos": 4997
+  },
+  "004731003257": {
+    "nome": "",
+    "cod": "RRU3804-WD5MARU265",
+    "fab": "Huawei Technologies Co. Ltd",
+    "usos": 3778
+  },
+  "002741502096": {
+    "nome": "",
+    "cod": "NX-340-K3",
+    "fab": "JVCKenwood Corporation",
+    "usos": 3475
+  },
+  "025921101699": {
+    "nome": "",
+    "cod": "M83PFS6TZ4AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 3180
+  },
+  "022481101699": {
+    "nome": "",
+    "cod": "LAM28QPC9MA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 3067
+  },
+  "003281200657": {
+    "nome": "",
+    "cod": "IC-F3161DT",
+    "fab": "Icom Incorporated",
+    "usos": 2860
+  },
+  "017501300657": {
+    "nome": "",
+    "cod": "IC-F5061D",
+    "fab": "Icom Incorporated",
+    "usos": 2841
+  },
+  "012010700506": {
+    "nome": "",
+    "cod": "LAM27JNC9JA1AN",
+    "fab": "Motorola Solutions Malaysia Sdn Bhd.",
+    "usos": 2838
+  },
+  "024561302112": {
+    "nome": "",
+    "cod": "EVX-5300-D0-50",
+    "fab": "Vertex Standard LMR, Inc.,",
+    "usos": 2633
+  },
+  "022461003257": {
+    "nome": "",
+    "cod": "RRU3806-WD5MARU2810",
+    "fab": "Huawei Technologies Co. Ltd",
+    "usos": 2541
+  },
+  "009191300657": {
+    "nome": "",
+    "cod": "IC-F3261DT",
+    "fab": "Icom Incorporated",
+    "usos": 2437
+  },
+  "024261507745": {
+    "nome": "",
+    "cod": "C050045A001",
+    "fab": "Cambium Network, Ltd.",
+    "usos": 2342
+  },
+  "022461101699": {
+    "nome": "",
+    "cod": "LAM28QNC9MA1AN",
+    "fab": "Motorola Solutions, Inc.",
+    "usos": 2281
+  }
+}

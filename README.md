@@ -12,9 +12,11 @@ Cada correção é uma entrada num arquivo JSON, organizada por estado (UF). Voc
 
 ## O que dá pra corrigir hoje
 
-- **Posição (latitude/longitude)**: reposicionar a antena para o local real. Fica em `posicao/<UF>.json`.
+- **Posição (latitude/longitude)**: reposicionar a antena para o local real. É por antena, organizada por estado, em `posicao/<UF>.json`.
+- **MIMO**: informar a configuração de antenas de um equipamento (ex: `64x64`, `4x4`). É por equipamento, não por antena, então é global (vale no Brasil inteiro). Em `mimo/homologacao.json` (pela homologação) ou `mimo/nome.json` (pelo nome/modelo).
+- **Nome do equipamento**: dar um nome comercial legível a um modelo cru. Em `modelo/alias.json`, pela homologação.
 
-Outros tipos de correção (azimute, tecnologia, modelo) entram em breve.
+Diferença importante: posição é por antena (chave `erb_id`, separada por UF). MIMO e nome de equipamento são por equipamento (chave = homologação ou nome do modelo), e o mesmo equipamento aparece em todo o país, por isso são catálogos globais, sem divisão por estado.
 
 ## Como achar o `erb_id` da antena
 
