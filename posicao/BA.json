@@ -8,5 +8,10 @@
     "lat": -11.453245,
     "lon": -39.079327,
     "fonte": "Ajuste prévio do RMF"
+  },
+  "1014750307": {
+    "lat": -13.549633,
+    "lon": -42.483653,
+    "fonte": "Coordenada do licenciamento de 2026 da mesma torre (TIM 1017372958, Rua Tocantins Q107 L26). O registro de 2023 gravou o endereco como Rua Joao Alves Carneiro e caiu 130 m ao norte. Mesmo sitio comprovado pelos vaos identicos: 7442/7596 e 7470/7624 em az 234-235, 8059,02/7747,7 e 8118,32/7807 em az 345. O registro antigo segue valido, carrega os vaos de 6 GHz (az 70) e a E-band de 81 GHz (az 180) que o novo nao tem."
   }
 }
